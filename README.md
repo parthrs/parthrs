@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Golang
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: My current fav fruit is Hawaiian Papaya
+
 <!--
 **parthrs/parthrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +18,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align=center>
+    <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=parthrs&show_icons=true&theme=gruvbox">
+    <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthrs&layout=compact&theme=gruvbox">
+</p>
+
+<br><p align="right">![](https://visitor-badge.laobi.icu/badge?page_id=parthrs.parthrs)<br>
