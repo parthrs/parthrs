@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Golang
+- 🔭 I'm passionate about distributed systems and software
+- 🌱 I’m an SRE that likes to code in Go
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: My current fav fruit is Hawaiian Papaya
 
