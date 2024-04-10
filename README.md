@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I'm passionate about distributed systems and software
-- 🌱 I’m an Software engineer that likes to code in Go
+- 🌱 I’m a Software engineer that likes to code in Go
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: My current fav fruit is Hawaiian Papaya
 
